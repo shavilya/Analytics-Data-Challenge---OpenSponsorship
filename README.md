@@ -42,6 +42,6 @@ Contributions to this repository are welcome. If you have any suggestions, impro
 This repository is licensed under the MIT License.
 
 ### Contact
-If you have any questions or need further assistance, feel free to contact me at your.email@example.com or connect with me on LinkedIn Your LinkedIn Profile.
+If you have any questions or need further assistance, feel free to contact me at shavilyarajput50@gmail.com or connect with me on LinkedIn: Shavilya Rajput.
 
 Thank you for your interest in the Analytics Data Challenge with OpenSponsorship! We look forward to reviewing your analysis.
